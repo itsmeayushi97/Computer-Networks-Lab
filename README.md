@@ -1,6 +1,6 @@
 # Computer-Networks-Lab
--Every week labwork of Computer Networks.</p>
--Subject Code: - 18CSC302J</p>
+-Every week labwork of Computer Networks.
+-Subject Code: - 18CSC302J
 <p>B.Tech(CSE)</p>
 <p>5th Semester, 3rd year</p>
 <p>Contents:-
