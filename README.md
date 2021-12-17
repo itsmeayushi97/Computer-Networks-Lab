@@ -9,5 +9,4 @@ Contents:-
   3. Concurrent TCP/IP Day-Time Server
   4. Half Duplex chat using TCP/IP
   5. Full Duplex chat using TCP/IP
-
-</p>
+  6. Implementation of File Transfer Protocol
