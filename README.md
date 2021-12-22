@@ -10,4 +10,5 @@ Contents:-
   4. Half Duplex chat using TCP/IP
   5. Full Duplex chat using TCP/IP
   6. Implementation of File Transfer Protocol
-  7. ARP Implementation using UDP
+  7. Remote Command execution UDP
+  8. ARP Implementation using UDP
